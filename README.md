@@ -45,6 +45,8 @@ Resources that will help a developer to create a bot.
 ### Libraries
 
 - [TETR.JS](https://tetr.js.org/) - An API Wrapper for TETR.IO (written in Typescript).
+- [Tetry](https://apes0.github.io/tetry/) - TETR.IO API wrapper (for bots and the public api!) (written in Python).
+- [Tetrio.js](https://hicka.dev/tetrio.js/) - A promise-based module to interact with the TETR.IO API (written in Typescript).
 
 ## Bots
 
