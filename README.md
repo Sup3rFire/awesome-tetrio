@@ -45,7 +45,7 @@ Resources that will help a developer to create a bot.
 ### Libraries
 
 | Name      | Description                                                    | Language     | Bot API | Public API  | Links |
-| ---       | ---                                                            | ---          | --- | --- | --- |  
+| :---:     | ---                                                            | :---:        |:---:|:---:| --- |  
 | TETR.JS   | An API Wrapper for TETR.IO                                     | Node.JS (TS) | ✅ | ✅  | [Homepage](https://tetr.js.org/), [Github Repo](https://github.com/tetrjs/tetr.js) |
 | Tetry     | A simple python library for interacting with the TETR.IO API.  | Python       | ✅ | ✅  | [Homepage](https://apes0.github.io/tetry/), [Github Repo](https://github.com/apes0/tetry) |
 | tetrio.js | A promise-based module to interact with the TETR.IO API.       | Node.JS (TS) | ❌ | ✅  | [Homepage](https://hicka.dev/tetrio.js/), [Github Repo](https://github.com/hickatheworld/tetrio.js) |
