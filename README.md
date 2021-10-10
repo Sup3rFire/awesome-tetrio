@@ -36,6 +36,7 @@ Resources that will help a developer to create a bot.
 
 - [osk branding](https://branding.osk.sh/) - Branding guidelines.
 - [TETR.IO Logs](https://github.com/Sup3rFire/TETR.IO-Logs) - Firefox extension to make it easier to inspect Ribbon.
+- [Tetostats Recorder](https://github.com/ThatCookie/Tetostats-recorder) - A program that periodically saves TETR.IO stats.
 
 ### Documentation
 
