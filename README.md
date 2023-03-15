@@ -17,7 +17,7 @@
 - [TETR.IO Statistics by Tenchi](https://tetrio.team2xh.net/) - A tool to check player stats over time, Tetra League global overview, Tetra League TR requirements, etc.
 - [TetoStats](https://cankyre.github.io/tetostats) - A webpage that was inspired by TETR.IO Stats by Tenchi, but has different features, like countries leaderboards, etc.
 - [Hard Drop Wiki](https://harddrop.com/wiki/) - Possibly the most complete guide of anything tetris.
-- [Stream overlay for TETR.IO](https://overlay.kagar.in/) - Show off your TETRA LEAGUE rank as well as your singleplayer PBs.
+- [Stream overlay for TETR.IO](https://tetr.fires.bz/overlay/) - Show off your TETRA LEAGUE rank as well as your singleplayer PBs.
 - [Emote list for TETR.IO](https://emotes.kagar.in/) - A list of all the emotes you can use in TETR.IO's game chat.
 
 ## Game Modifications
